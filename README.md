@@ -9,6 +9,14 @@
 
 
 
+
+
+
+
+
+
+<h1 align="center">Summary Diagram</h1>
+
 ## Please click the link below to see the full documentation of my project ⬇️⬇️
 
 <br/>
@@ -17,11 +25,6 @@
 
 [Project Posted on Medium: "AWS Security Engineering: Building a Corporate DMZ Architecture (Using Free Tier Resources)" by Soel Kwun](https://medium.com/@cybersoel/aws-security-engineering-building-a-corporate-dmz-architecture-using-free-tier-resources-e4f05354b493)
 
-
-
-
-
-<h1 align="center">Summary Diagram</h1>
 
 
 <p align="center">
